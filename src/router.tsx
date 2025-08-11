@@ -2,7 +2,6 @@ import {
   createRootRoute,
   createRoute,
   createRouter,
-  RouterProvider,
   Outlet,
 } from "@tanstack/react-router";
 import CharacterList from "./pages/CharacterList";
